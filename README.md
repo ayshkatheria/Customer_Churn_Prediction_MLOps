@@ -15,3 +15,25 @@ This project is perfect because it teaches:
 ✅ Team collaboration
 
 ✅ Reproducibility
+
+```
+Customer_Churn_Prediction_Model/
+│
+├── data/
+│   └── dataset.csv.dvc
+│
+├── src/
+│   ├── train.py
+│   └── preprocess.py
+│
+├── models/
+│
+├── .dvc/
+│
+├── .gitignore
+├── dvc.yaml
+├── requirements.txt
+├── README.md
+└── .github/
+
+```
