@@ -17,23 +17,19 @@ This project is perfect because it teaches:
 ✅ Reproducibility
 
 ```
-Customer_Churn_Prediction_Model/
+customer-churn-mlops/
 │
 ├── data/
-│   └── dataset.csv.dvc
+│   └── churn.csv
 │
 ├── src/
-│   ├── train.py
-│   └── preprocess.py
+│   ├── generate_data.py
+│   └── train.py
 │
-├── models/
+├── model/
 │
-├── .dvc/
-│
-├── .gitignore
-├── dvc.yaml
 ├── requirements.txt
-├── README.md
-└── .github/
-
+├── dvc.yaml
+├── .gitignore
+└── README.md
 ```
