@@ -1,0 +1,23 @@
+Developer Laptop
+   │
+   ├── Git → Code + Metadata
+   ├── DVC → Dataset Tracking
+   └── Python → ML Model
+
+          │
+          ▼
+
+GitHub Repo
+   └── Stores code + .dvc files
+
+          │
+          ▼
+
+AWS S3 Bucket
+   └── Stores actual datasets
+
+          │
+          ▼
+
+Team Members
+   └── git clone + dvc pull
