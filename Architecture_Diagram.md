@@ -1,17 +1,19 @@
-## Architecture
+# DVC + Git + S3 Workflow
 
 ```mermaid
 flowchart TD
 
 A[Developer Laptop]
-A --> B[Git]
-A --> C[DVC]
-A --> D[Python]
 
-B --> E[GitHub Repository]
-C --> F[AWS S3 Bucket]
+A --> B[Git<br/>Code + Metadata]
+A --> C[DVC<br/>Dataset Tracking]
+A --> D[Python<br/>ML Model]
 
-E --> G[Team Members]
+B --> E[GitHub Repo<br/>Stores code + .dvc files]
+
+C --> F[AWS S3 Bucket<br/>Stores actual datasets]
+
+E --> G[Team Members<br/>git clone + dvc pull]
 F --> G
 ```
 
