@@ -52,3 +52,4 @@ ls data
 
 Output: churn.csv
 ```
+<img width="1037" height="117" alt="image" src="https://github.com/user-attachments/assets/09c9a792-0d07-445b-9b63-ef6eeb55b62b" />
