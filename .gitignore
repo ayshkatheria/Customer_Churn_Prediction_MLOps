@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# DVC tracked data
+data/
+mlops_training_data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
