@@ -5,7 +5,7 @@ venv/
 .env
 
 # DVC tracked data
-data/
+data/*.csv
 mlops_training_data/
 
 # Jupyter
