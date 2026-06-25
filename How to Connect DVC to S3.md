@@ -43,6 +43,9 @@ aws s3 ls s3://customer-churn-dvc-storage --recursive
 ```
 You’ll see hashed DVC files.
 
+<img width="1473" height="76" alt="image" src="https://github.com/user-attachments/assets/e62ad613-99d1-4d79-829a-6f3d43b0b0eb" />
+
+<img width="1355" height="54" alt="image" src="https://github.com/user-attachments/assets/e7027584-d552-4101-b122-8975040a1eaf" />
 
 
 
