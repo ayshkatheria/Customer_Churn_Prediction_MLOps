@@ -20,6 +20,9 @@ Verify:
 ```
 dvc remote list
 ```
+<img width="1453" height="180" alt="image" src="https://github.com/user-attachments/assets/689d9fbb-abcd-40b3-aee7-66a3429cd081" />
+
+
 Commit configuration:
 ```
 git add .dvc/config
