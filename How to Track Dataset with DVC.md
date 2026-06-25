@@ -10,6 +10,9 @@ data/churn.csv.dvc
 
 DVC now tracks your dataset.
 ```
+<img width="600" height="50" alt="image" src="https://github.com/user-attachments/assets/fc33b7f2-1e5e-4059-95ed-f59daaa81265" />
+
+
 **Important Concept**
 ```
 Git tracks:
