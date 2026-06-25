@@ -13,6 +13,8 @@ Commit initial setup:
    git add .
    git commit -m "Initialize Git and DVC"
 ```
+<img width="916" height="242" alt="image" src="https://github.com/user-attachments/assets/c5287bbb-7925-4670-9703-f3490a756f9b" />
+
 
 **STEP 2 — Create Synthetic Dataset**
 ```
